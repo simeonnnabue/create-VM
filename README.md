@@ -71,10 +71,8 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 
 
 - For image we will use Windows 10 Pro
-- For size, select Standard D2as_v4
+- For size, select Standard 2 vcpus, 8GiB memory
 * You will then need to make a username and password
-- For username, we will use labuser
-- Create your own password
 * Click the box under licensing and finally click Review + Create 
 
 
@@ -87,17 +85,15 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 <h3>Step 5: Connect to Virtual Machine</h3>
 
 - First you will need to find the Public IP address of your virtual machine
-- Select the virtual machhine we created in step and the IP address will be on the right hand side 
-- Copy the IP address
+- Select the virtual machhine we created and copy the Public IP on the right hand side 
 
 <p align="center">
 <img src="https://i.imgur.com/T4Oc2RX.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 * Mac Users 
    - Download Microsoft Remote Desktop
-   - Open application and click add PC
    - Paste IP address and select Add
-   - Double click on the virtual machine and enter username and password from step 4
+   - enter username and password from step 4
    - Select continue
    
 * Windows Users

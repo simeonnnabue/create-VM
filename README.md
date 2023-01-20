@@ -13,15 +13,15 @@ Microsoft Azure, is a cloud computing platform operated by Microsoft that provid
 <h2>Configuration Steps</h2>
 
 
-<h3>Step 1: Create Azure Account</h3>
+<h3>Step 1: Create Free Azure Account</h3>
 
 
 Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 - Select Start Free
 - Follow the prompt to create the account. 
-- You will need to put in your credit card information but you will get $200 worth of Azure credit and will have 30 days to use those credits. You will not be charged until then.
-- Finish prompt, click Go to Azure Portal and you are ready to start with Azure!
-- You may also go to [portal.azure.com](https://www.portal.azure.com) to start
+- you will get $200 worth of free Azure credit and will have 30 days to use those credits. after the credits run out you can be charged, so keep an eye on them
+- Finish prompt, click Go to Azure Portal and you are ready to begin using Azure!
+
 
 
 <p align="center">
@@ -29,7 +29,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 </p>
 
 
-<h3>Step 2: Create Resource Group</h3>
+<h3>Step 2: Create Your Resource Group</h3>
 
 - Go to search bar at the top and search "resource group"
 - Select create resource group
@@ -41,7 +41,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 <img src="https://i.imgur.com/Afnk87u.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/yBBln5a.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
-<h3>Step 3: Create a storage Account</h3>
+<h3>Step 3: Create storage Account</h3>
 
 - Go to search bar and search "storage account"
 - Select Create storage account
@@ -55,7 +55,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 </p>
 
 
-<h3>Step 4: Create Virtual Machine</h3>
+<h3>Step 4: Create Your Virtual Machine</h3>
      
 - Go to search bar and search "virtual machine"
 - Select create, then select Azure virtual machine
@@ -70,9 +70,8 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 
 
 
-* You will then need to select image and size
 - For image we will use Windows 10 Pro
-- For size, select see all sizes and select Standard D2as_v4
+- For size, select Standard D2as_v4
 * You will then need to make a username and password
 - For username, we will use labuser
 - Create your own password

@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://i.imgur.com/4wqxHID.png" height="40%" width="60%" alt="Microsoft Azure Logo"/>
+<img src="https://i.imgur.com/546t2Db.jpg" height="40%" width="60%" alt="Microsoft Azure Logo"/>
 </p>
 
 <h1>Microsoft Azure</h1>
-Microsoft Azure is a cloud platform that will let you rent space in order to store or process your own data. This guide will demonstrate how to create an Azure account and create a virtual machine.
+Microsoft Azure, is a cloud computing platform operated by Microsoft that provides access, management, and development of applications and services via data centers, distributed around the world.
 
 <h2>Requirements</h2>
 

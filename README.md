@@ -84,7 +84,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 
 <h3>Step 5: Connect to Virtual Machine</h3>
 
-- First you will need to find the Public IP address of your virtual machine
+- Find the Public IP address of your virtual machine
 - Select the virtual machhine we created and copy the Public IP on the right hand side 
 
 <p align="center">
